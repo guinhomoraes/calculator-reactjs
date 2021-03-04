@@ -1,0 +1,9 @@
+
+
+.Button > button
+{
+    min-width: 58.5px !important;
+    max-width: 58.5px !important;
+    background-color:cadetblue;
+    color: white;
+}
